@@ -1,8 +1,8 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+	email = mickeykkim@gmail.com
+	name = Mickey Kim
 [core]
-  editor = vi
+  editor = vim
   excludesfile = ~/.gitignore
   autocrlf = input
 [color]
@@ -12,8 +12,6 @@
   status = auto
 [init]
   defaultBranch = master
-[web]
-  browser = google-chrome
 [credential]
   helper = osxkeychain
 [push]
